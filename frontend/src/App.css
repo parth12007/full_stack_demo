@@ -1,0 +1,82 @@
+.table {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+a {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  font-size: larger;
+  text-decoration: none;
+  color: black;
+}
+.nav {
+  display: "flex";
+  align-items: "center";
+  justify-content: "center";
+  margin-bottom: 10px;
+  background-color: antiquewhite;
+  padding: 10px;
+  margin-left: 10px;
+}
+.head {
+  color: white !important;
+  background-color: rgb(137, 137, 153);
+}
+.center-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  height: 100vh;
+}
+
+.error {
+  color: red;
+  margin-top: -12px;
+  margin-bottom: 12px;
+}
+label {
+  margin-right: 13px;
+}
+
+.form {
+  max-width: 50% !important;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  padding: 1px;
+  margin-top: 5px;
+}
+
+.form .form__custom-button {
+  margin-top: 50px;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+  padding: 10px !important;
+  font: 10px !important;
+  margin-top: 10px;
+}
+.css-1j0w0ul-MuiInputBase-root-MuiOutlinedInput-root {
+  margin-top: 10px;
+}
+.css-32yp37-MuiFormControl-root-MuiTextField-root {
+  margin-top: 20px !important;
+}
+.btn {
+  width: 100px !important;
+}
+.delete {
+  cursor: pointer;
+}
+.page-btn {
+  display: flex;
+  margin-top: 10px;
+  justify-content: flex-end;
+}
+.page {
+  margin-right: 10px;
+  margin-left: 10px;
+  display: flex;
+  align-items: center;
+  font-size: 19px;
+}
